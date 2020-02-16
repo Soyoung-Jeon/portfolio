@@ -40,21 +40,11 @@ a { text-decoration: none; color: #333;}
 * { box-sizing: border-box;}
 
 body {
-    font-family: 'JejuMyeongjo', sans-serif;
+    font-family: 'Noto Serif KR', serif;
 	font-size: 14px;
+	font-weight: 300;
 	line-height: 1;
 	color: #333;
 }
 
 .blind { display: none;}
-
-
-
-
-/* 글꼴 */
-@font-face { font-family: 'NotoSansCJKkr'; font-weight: 600; src: url('../fonts/NotoSansCJKkr_B.woff') format('woff');}
-@font-face { font-family: 'NotoSansCJKkr'; font-weight: 400; src: url('../fonts/NotoSansCJKkr_R.woff') format('woff');}
-@font-face { font-family: 'NotoSansCJKkr'; font-weight: 100; src: url('../fonts/NotoSansCJKkr_L.woff') format('woff');}
-
-
-@font-face { font-family: 'JejuMyeongjo'; font-weight: 300; src: url('../fonts/JejuMyeongjo.woff') format('woff');}
