@@ -24,7 +24,7 @@ const data = [
         src: "",
         type: "특집기사",
         title: "데이터로 보는 문재인 정부 출범 後 부동산 시장",
-        contents: "CSS fixed 기능을 활용하여 마치 페이지를 따라 진행바가 움직이는 것처럼 표현하였습니다.",
+        contents: "CSS fixed 기능을 활용하여 마치 페이지를 따라 진행바가 움직",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -38,7 +38,7 @@ const data = [
         src: "",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
-        contents: "제이쿼리 플러그인으로 메인효과를 주었습니다.",
+        contents: "플러그인",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -55,5 +55,25 @@ const data = [
         contents: "??",
         refer: "HTML / CSS / jQuery / 반응형",
     },
-
+    { 
+        src: "",
+        type: "특집기사",
+        title: "'윤창호 사건' 후 1년, 만취한 대한민국 도로",
+        contents: "??",
+        refer: "HTML / CSS / jQuery / 반응형",
+    },
+    { 
+        src: "",
+        type: "특집기사",
+        title: "반려동물의 차량 안전, 사람만큼 중요하다",
+        contents: "??",
+        refer: "HTML / CSS / jQuery / 반응형",
+    },
+    { 
+        src: "",
+        type: "개인프로젝트",
+        title: "대한민국 축구, 내맘대로 포메이션",
+        contents: "드래그앤드롭 기능",
+        refer: "HTML / CSS / jQuery",
+    },
 ]
