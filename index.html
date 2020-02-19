@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +17,7 @@
 
     <!-- js -->
 </head>
+
 <body>
     <div class="wrap">
         <main class="main">
@@ -25,29 +27,30 @@
             </section>
             <section class="tab">
                 <ul class="tab_inner">
-                    <li><a href="javascript:void(0);" id="all" style="font-weight: 900;">All</a></li>
-                    <li><a href="javascript:void(0);" id="web">Web Site</a></li>
-                    <li><a href="javascript:void(0);" id="news">Special News</a></li>
-                    <li><a href="javascript:void(0);" id="toy">Toy Project</a></li>
+                    <li><a class="tab_btn" href="javascript:void(0);" id="all" style="font-weight: 900;">전체보기</a></li>
+                    <li><a class="tab_btn" href="javascript:void(0);" id="web">웹사이트</a></li>
+                    <li><a class="tab_btn" href="javascript:void(0);" id="news">특집기사</a></li>
+                    <li><a class="tab_btn" href="javascript:void(0);" id="etc">그 외</a></li>
                 </ul>
             </section>
             <section class="list">
                 <div class="list_inner">
-                    <a href="javascript:void(0);" class="item_btn">
-                        <ul>
-                            <li class="item_img"><img src="" alt="thumbnail"></li>
-                            <li class="item_type">타입</li>
-                            <li class="item_title">포트폴리오 제목입니다.</li>
-                            <li class="item_contents">포트폴리오 설명입니다.</li>
-                            <li class="item_refer">태그 / 태그 / 태그 / 태그</li>
-                        </ul>
-                    </a>
+                    <div style="display:none">
+                        <a href="javascript:void(0);" class="item_btn">
+                            <ul>
+                                <li class="item_img"><img src="/img/01.PNG" alt="thumbnail"></li>
+                                <li class="item_type">타입</li>
+                                <li class="item_title">포트폴리오 제목입니다.</li>
+                                <li class="item_contents">포트폴리오 설명입니다.</li>
+                                <li class="item_refer">태그 / 태그 / 태그 / 태그</li>
+                            </ul>
+                        </a>
+                    </div>
                 </div>
             </section>
         </main>
-    </div>
-
     <script src="../js/data.js"></script>
-	<script src="../js/index.js"></script>
+    <script src="../js/index.js"></script>
 </body>
+
 </html>
