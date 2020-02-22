@@ -18,9 +18,8 @@ html { width: 100%; height: auto;}
 
 /* 리스트 스타일 */
 .list { width: 100%; height: auto;}
-.list_inner { display: flex; flex-wrap: wrap;}
-.list_inner a { display: block;  padding: 10px; margin: 0 17px 40px 0; width: 24%; border: 1px solid #dfdfdf;}
-.list_inner a:nth-child(4n) { margin: 0 0 40px 0;}
+.list_inner { display: flex; flex-wrap: wrap; justify-content: space-between;}
+.list_inner a { display: block;  padding: 10px; margin-bottom: 40px; width: 24%; border: 1px solid #dfdfdf; background-color: #fff;}
 .list_inner a:hover .item_title { text-decoration: underline;}
 .list_inner ul { width: 100%; height: auto;}
 .list_inner ul li { font-family: 'Noto Sans KR', sans-serif;}
