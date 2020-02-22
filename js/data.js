@@ -88,7 +88,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "www.redpp.co.kr",
+        href: "http://redpp.co.kr/",
         src: "img/05.PNG",
         type: "웹사이트",
         title: "redpp",
