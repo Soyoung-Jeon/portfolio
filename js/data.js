@@ -1,14 +1,14 @@
 const data = [
     { 
-        href: "",
-        src: "/img/01.PNG",
+        href: "https://soyoung-jeon.github.io/portfolio/",
+        src: "/img/02.PNG",
         type: "웹사이트",
         title: "전소영 포트폴리오 웹 사이트",
-        contents: "내용무",
+        contents: "Vanilla JS로 진행한 개인 포트폴리오 페이지",
         refer: "HTML / CSS / JavaScript(ES6)",
     },
     { 
-        href: "",
+        href: "https://soyoung-jeon.github.io/moyam/",
         src: "/img/13.PNG",
         type: "웹사이트",
         title: "MOYAM",
@@ -16,6 +16,7 @@ const data = [
         refer: "Vue / Vuetify / CSS",
     },
     { 
+        href: "http://52.78.93.85/special-view/01/index.html",
         src: "/img/01.PNG",
         type: "특집기사",
         title: "아동성범죄 향한 무딘 칼날",
@@ -23,34 +24,15 @@ const data = [
         refer: "HTML / CSS / jQuery",
     },
     { 
-        src: "/img/02.PNG",
-        type: "특집기사",
-        title: "퍼져나가는 '후쿠시마산'의 공포",
-        contents: "계산기",
-        refer: "HTML / CSS / jQuery / 반응형",
-    },
-    { 
+        href: "http://52.78.93.85/special-view/03/index.html",
         src: "/img/03.PNG",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
         contents: "CSS fixed",
         refer: "HTML / CSS / jQuery / 반응형",
     },
-    {
-        src: "/img/04.PNG",
-        type: "특집기사",
-        title: "'폭식', 미국과 인류의 목을 조르다",
-        contents: "CSS fixed",
-        refer: "HTML / CSS / jQuery / 반응형",
-    },
     { 
-        src: "/img/05.PNG",
-        type: "특집기사",
-        title: "누가 그들을 죽음으로 내몰았는가",
-        contents: "탭",
-        refer: "HTML / CSS / jQuery / 반응형",
-    },
-    { 
+        href: "http://52.78.93.85/special-view/06/index.html",
         src: "/img/06.PNG",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
@@ -58,6 +40,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
+        href: "http://52.78.93.85/special-view/07/index.html",
         src: "/img/07.PNG",
         type: "특집기사",
         title: "산불의 계절이 돌아왔다",
@@ -65,6 +48,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
+        href: "http://52.78.93.85/special-view/08/index.html",
         src: "/img/08.PNG",
         type: "특집기사",
         title: "고독사, 그들이 살던 세상",
@@ -72,6 +56,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
+        href: "http://52.78.93.85/special-view/09/index.html",
         src: "/img/09.PNG",
         type: "특집기사",
         title: "뷰티아웃사이드, '스펙안에 성형있다'",
@@ -79,6 +64,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
+        href: "http://52.78.93.85/special-view/10/index.html",
         src: "/img/10.PNG",
         type: "특집기사",
         title: "'윤창호 사건' 1년, 만취한 대한민국 도로",
@@ -86,13 +72,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        src: "/img/11.PNG",
-        type: "특집기사",
-        title: "반려동물의 차량 안전, 사람만큼 중요하다",
-        contents: "??",
-        refer: "HTML / CSS / jQuery / 반응형",
-    },
-    { 
+        href: "http://52.78.93.85/special-view/soccer/index.html",
         src: "/img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",

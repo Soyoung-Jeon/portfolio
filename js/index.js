@@ -11,12 +11,14 @@ class Gallery {
       const itembox = itembox_origin.cloneNode(true);
       itembox.classList.add(this._typeToClassType(data[i].type));
 
+      let itemLink = itembox;
       let itemImage = itembox.querySelector(".item_img > img");
       let itemType = itembox.querySelector(".item_type");
       let itemTitle = itembox.querySelector(".item_title");
       let itemContents = itembox.querySelector(".item_contents");
       let itemRefer = itembox.querySelector(".item_refer");
 
+      itemLink.setAttribute("href", data[i].href);
       itemImage.setAttribute("src", data[i].src);
       itemType.innerText = data[i].type;
       itemTitle.innerText = data[i].title;
