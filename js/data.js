@@ -1,7 +1,7 @@
 const data = [
     { 
         href: "https://soyoung-jeon.github.io/portfolio/",
-        src: "/img/02.PNG",
+        src: "img/02.PNG",
         type: "웹사이트",
         title: "전소영 포트폴리오 웹 사이트",
         contents: "Vanilla JS로 진행한 개인 포트폴리오 페이지",
@@ -9,7 +9,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/moyam/",
-        src: "/img/13.PNG",
+        src: "img/13.PNG",
         type: "웹사이트",
         title: "MOYAM",
         contents: "내용무",
@@ -17,7 +17,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/01/index.html",
-        src: "/img/01.PNG",
+        src: "img/01.PNG",
         type: "특집기사",
         title: "아동성범죄 향한 무딘 칼날",
         contents: "냉무",
@@ -25,7 +25,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/03/index.html",
-        src: "/img/03.PNG",
+        src: "img/03.PNG",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
         contents: "CSS fixed",
@@ -33,7 +33,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/06/index.html",
-        src: "/img/06.PNG",
+        src: "img/06.PNG",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
         contents: "플러그인",
@@ -41,7 +41,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/07/index.html",
-        src: "/img/07.PNG",
+        src: "img/07.PNG",
         type: "특집기사",
         title: "산불의 계절이 돌아왔다",
         contents: "플러그인",
@@ -49,7 +49,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/08/index.html",
-        src: "/img/08.PNG",
+        src: "img/08.PNG",
         type: "특집기사",
         title: "고독사, 그들이 살던 세상",
         contents: "플러그인",
@@ -57,7 +57,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/09/index.html",
-        src: "/img/09.PNG",
+        src: "img/09.PNG",
         type: "특집기사",
         title: "뷰티아웃사이드, '스펙안에 성형있다'",
         contents: "??",
@@ -65,7 +65,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/10/index.html",
-        src: "/img/10.PNG",
+        src: "img/10.PNG",
         type: "특집기사",
         title: "'윤창호 사건' 1년, 만취한 대한민국 도로",
         contents: "??",
@@ -73,7 +73,7 @@ const data = [
     },
     { 
         href: "http://52.78.93.85/special-view/soccer/index.html",
-        src: "/img/12.PNG",
+        src: "img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
         contents: "드래그앤드롭",
