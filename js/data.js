@@ -8,6 +8,14 @@ const data = [
         refer: "HTML / CSS / JavaScript(ES6)",
     },
     { 
+        href: "",
+        src: "/img/13.PNG",
+        type: "웹사이트",
+        title: "MOYAM",
+        contents: "내용무",
+        refer: "Vue / Vuetify / CSS",
+    },
+    { 
         src: "/img/01.PNG",
         type: "특집기사",
         title: "아동성범죄 향한 무딘 칼날",
