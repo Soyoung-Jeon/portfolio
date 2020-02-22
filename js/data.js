@@ -79,4 +79,12 @@ const data = [
         contents: "드래그앤드롭",
         refer: "HTML / CSS / jQuery",
     },
+    { 
+        href: "http://52.78.93.85/special-view/soccer/index.html",
+        src: "img/04.PNG",
+        type: "개인 프로젝트",
+        title: "국립발레단 메인페이지 리뉴얼",
+        contents: "개인적으로 진행한 기존 사이트 리뉴얼 작업",
+        refer: "HTML / CSS / jQuery / 반응형",
+    },
 ]
