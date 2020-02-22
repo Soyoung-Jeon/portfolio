@@ -80,7 +80,7 @@ const data = [
         refer: "HTML / CSS / jQuery",
     },
     { 
-        href: "http://52.78.93.85/special-view/soccer/index.html",
+        href: "https://soyoung-jeon.github.io/ballet/",
         src: "img/04.PNG",
         type: "개인 프로젝트",
         title: "국립발레단 메인페이지 리뉴얼",
@@ -88,7 +88,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "https://redpp.co.kr",
+        href: "www.redpp.co.kr",
         src: "img/05.PNG",
         type: "웹사이트",
         title: "redpp",
