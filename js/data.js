@@ -12,23 +12,15 @@ const data = [
         src: "img/13.PNG",
         type: "웹사이트",
         title: "MOYAM",
-        contents: "내용무",
+        contents: "체험단 링크를 모아서 볼 수 있는 웹사이트",
         refer: "Vue / Vuetify / CSS",
-    },
-    { 
-        href: "http://52.78.93.85/special-view/01/index.html",
-        src: "img/01.PNG",
-        type: "특집기사",
-        title: "아동성범죄 향한 무딘 칼날",
-        contents: "냉무",
-        refer: "HTML / CSS / jQuery",
     },
     { 
         href: "http://52.78.93.85/special-view/03/index.html",
         src: "img/03.PNG",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
-        contents: "CSS fixed",
+        contents: "CSS fixed 기능으로 progress bar 구현",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -36,7 +28,15 @@ const data = [
         src: "img/06.PNG",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
-        contents: "플러그인",
+        contents: "간단한 설문지 구현",
+        refer: "HTML / CSS / jQuery / 반응형",
+    },
+    { 
+        href: "http://52.78.93.85/special-view/01/index.html",
+        src: "img/01.PNG",
+        type: "특집기사",
+        title: "아동성범죄 향한 무딘 칼날",
+        contents: "click, hover 등의 기능으로 구독자 흥미를 유발",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -44,7 +44,7 @@ const data = [
         src: "img/07.PNG",
         type: "특집기사",
         title: "산불의 계절이 돌아왔다",
-        contents: "플러그인",
+        contents: "좌측 탭메뉴로 바로가기 기능을 구현",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -52,7 +52,7 @@ const data = [
         src: "img/08.PNG",
         type: "특집기사",
         title: "고독사, 그들이 살던 세상",
-        contents: "플러그인",
+        contents: "첫 화면에 Tilt 효과 플러그인을 활용",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -60,7 +60,7 @@ const data = [
         src: "img/09.PNG",
         type: "특집기사",
         title: "뷰티아웃사이드, '스펙안에 성형있다'",
-        contents: "??",
+        contents: "첫 화면에 css animation 효과를 적용",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -68,7 +68,7 @@ const data = [
         src: "img/10.PNG",
         type: "특집기사",
         title: "'윤창호 사건' 1년, 만취한 대한민국 도로",
-        contents: "??",
+        contents: "비디오를 fixed하여 전체 페이지 배경으로 사용",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -76,7 +76,7 @@ const data = [
         src: "img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
-        contents: "드래그앤드롭",
+        contents: "드래그앤드롭 플러그인을 응용한 개인 프로젝트",
         refer: "HTML / CSS / jQuery",
     },
     { 
@@ -85,6 +85,14 @@ const data = [
         type: "개인 프로젝트",
         title: "국립발레단 메인페이지 리뉴얼",
         contents: "개인적으로 진행한 기존 사이트 리뉴얼 작업",
+        refer: "HTML / CSS / jQuery / 반응형",
+    },
+    { 
+        href: "https://redpp.co.kr",
+        src: "img/05.PNG",
+        type: "웹사이트",
+        title: "redpp",
+        contents: "기존 자사매체사 리뉴얼",
         refer: "HTML / CSS / jQuery / 반응형",
     },
 ]
