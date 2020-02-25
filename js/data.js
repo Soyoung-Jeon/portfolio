@@ -20,7 +20,7 @@ const data = [
         src: "img/03.PNG",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
-        contents: "CSS fixed 기능으로 progress bar 구현",
+        contents: "CSS fixed 기능으로 세로 progress bar 구현",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
@@ -76,7 +76,7 @@ const data = [
         src: "img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
-        contents: "드래그앤드롭 플러그인을 응용한 개인 프로젝트",
+        contents: "드래그앤드롭 공개 소스코드를 응용한 개인 프로젝트",
         refer: "HTML / CSS / jQuery",
     },
     { 
