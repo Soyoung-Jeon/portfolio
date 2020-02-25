@@ -76,7 +76,7 @@ const data = [
         src: "img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
-        contents: "드래그앤드롭 공개 소스코드를 응용한 개인 프로젝트",
+        contents: "드래그앤드롭 오픈소스를 응용한 개인 프로젝트",
         refer: "HTML / CSS / jQuery",
     },
     { 
