@@ -43,9 +43,10 @@ function tabType(type) {
 
 // 탭 클릭 이벤트
 const tabBtn = document.getElementsByClassName("tab_btn");
-for (let j = 0; j < tabBtn.length; j++) {
-  tabBtn[j].addEventListener('click', tabSelected);
-}
+Array.from(tabBtn).forEach(button => {
+  button.addEventListener('click', tabSelected)
+});
+
 
 function tabSelected(event) {
   let itembox_all = document.querySelectorAll(".item_btn");
