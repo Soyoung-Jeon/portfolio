@@ -5,7 +5,7 @@ const data = [
         type: "웹사이트",
         title: "전소영 포트폴리오 웹 사이트",
         contents: "Vanilla JS로 진행한 개인 포트폴리오 페이지",
-        refer: "HTML / CSS / JavaScript(ES6)",
+        refer: "HTML / CSS / Javascript(ES6)",
     },
     { 
         href: "https://soyoung-jeon.github.io/moyam/",
@@ -95,4 +95,12 @@ const data = [
         contents: "기존 자사매체사 리뉴얼",
         refer: "HTML / CSS / jQuery / 반응형",
     },
+    { 
+      href: "https://soyoung-jeon.github.io/momentum/",
+      src: "img/11.PNG",
+      type: "개인 프로젝트",
+      title: "크롬 앱 'momentum' 클론코딩",
+      contents: "ES6 공부를 하면서 진행한 개인 프로젝트 background 이미지 랜덤 출력, 날씨 및 위치 api연결, localStorage에 유저이름 저장, TodoList 제작",
+      refer: "HTML / CSS / Javascript(ES6)",
+  },
 ]
