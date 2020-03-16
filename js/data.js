@@ -16,7 +16,7 @@ const data = [
         refer: "Vue / Vuetify / CSS",
     },
     { 
-        href: "http://52.78.93.85/special-view/03/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/03",
         src: "img/03.PNG",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
@@ -24,7 +24,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/06/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/06",
         src: "img/06.PNG",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
@@ -32,7 +32,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/01/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/01",
         src: "img/01.PNG",
         type: "특집기사",
         title: "아동성범죄 향한 무딘 칼날",
@@ -40,7 +40,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/07/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/07",
         src: "img/07.PNG",
         type: "특집기사",
         title: "산불의 계절이 돌아왔다",
@@ -48,7 +48,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/08/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/08",
         src: "img/08.PNG",
         type: "특집기사",
         title: "고독사, 그들이 살던 세상",
@@ -56,7 +56,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/09/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/09",
         src: "img/09.PNG",
         type: "특집기사",
         title: "뷰티아웃사이드, '스펙안에 성형있다'",
@@ -64,7 +64,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/10/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/10",
         src: "img/10.PNG",
         type: "특집기사",
         title: "'윤창호 사건' 1년, 만취한 대한민국 도로",
@@ -72,7 +72,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-        href: "http://52.78.93.85/special-view/soccer/index.html",
+        href: "https://soyoung-jeon.github.io/special-view/soccer",
         src: "img/12.PNG",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
