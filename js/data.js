@@ -108,7 +108,7 @@ const data = [
       src: "img/11.PNG",
       type: "개인 프로젝트",
       title: "크롬 앱 'momentum' 클론코딩",
-      contents: "ES6 공부를 하면서 진행한 개인 프로젝트 background 이미지 랜덤 출력, 날씨 및 위치 api연결, localStorage에 유저이름 저장, TodoList 제작",
+      contents: "배경이미지 랜덤 출력, 날씨 및 위치 api연결, localStorage에 유저이름 저장, TodoList 제작",
       refer: "HTML / CSS / Javascript(ES6)",
   },
 ]
