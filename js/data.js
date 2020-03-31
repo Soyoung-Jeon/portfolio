@@ -24,7 +24,7 @@ const data = [
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
-      href: "https://soyoung-jeon.github.io/Paint-Js/",
+      href: "https://github.com/Soyoung-Jeon/Paint-Js",
       src: "img/cat.PNG",
       type: "개인 프로젝트",
       title: "따라 그리면서 배우는 한국 고양이 6종",
