@@ -36,8 +36,8 @@ const data = [
       src: "img/04.PNG",
       type: "개인 프로젝트",
       title: "국립발레단 메인페이지 리뉴얼",
-      contents: "개인적으로 진행한 기존 사이트 리뉴얼 작업",
-      refer: "HTML / CSS / jQuery / 반응형",
+      contents: "사이트 메인화면(첫화면)을 원페이지 형식으로 리뉴얼",
+      refer: "디자인 / HTML / CSS / jQuery / 반응형",
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/06",
