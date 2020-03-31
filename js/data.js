@@ -36,7 +36,7 @@ const data = [
       src: "img/04.PNG",
       type: "개인 프로젝트",
       title: "국립발레단 메인페이지 리뉴얼",
-      contents: "사이트 메인화면(첫화면)을 원페이지 형식으로 리뉴얼",
+      contents: "사이트 메인화면을 원페이지 형식으로 리뉴얼",
       refer: "디자인 / HTML / CSS / jQuery / 반응형",
     },
     { 
