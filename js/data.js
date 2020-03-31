@@ -30,7 +30,15 @@ const data = [
       title: "따라 그리면서 배우는 한국 고양이 6종",
       contents: "Canvas API로 제작한 고양이 그림판",
       refer: "HTML / CSS / Javascript(ES6)",
-  },
+    },
+    { 
+      href: "https://soyoung-jeon.github.io/ko-ballet/",
+      src: "img/04.PNG",
+      type: "개인 프로젝트",
+      title: "국립발레단 메인페이지 리뉴얼",
+      contents: "개인적으로 진행한 기존 사이트 리뉴얼 작업",
+      refer: "HTML / CSS / jQuery / 반응형",
+    },
     { 
         href: "https://soyoung-jeon.github.io/special-view/06",
         src: "img/06.PNG",
@@ -86,14 +94,6 @@ const data = [
         title: "대한민국 축구, 내맘대로 포메이션",
         contents: "드래그앤드롭 오픈소스를 응용한 개인 프로젝트",
         refer: "HTML / CSS / jQuery",
-    },
-    { 
-        href: "https://soyoung-jeon.github.io/ko-ballet/",
-        src: "img/04.PNG",
-        type: "개인 프로젝트",
-        title: "국립발레단 메인페이지 리뉴얼",
-        contents: "개인적으로 진행한 기존 사이트 리뉴얼 작업",
-        refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
         href: "http://redpp.co.kr/",
