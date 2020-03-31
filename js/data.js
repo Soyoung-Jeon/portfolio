@@ -96,11 +96,11 @@ const data = [
         refer: "HTML / CSS / jQuery",
     },
     { 
-        href: "http://redpp.co.kr/",
+        href: "https://lawdinner.com/",
         src: "img/05.PNG",
         type: "웹사이트",
-        title: "redpp",
-        contents: "기존 자사매체사 리뉴얼",
+        title: "로디너",
+        contents: "자사매체사 웹사이트 퍼블리싱",
         refer: "HTML / CSS / jQuery / 반응형",
     },
     { 
