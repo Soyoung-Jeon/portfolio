@@ -88,7 +88,7 @@ const data = [
         refer: "HTML / CSS / jQuery",
     },
     { 
-        href: "https://soyoung-jeon.github.io/ballet/",
+        href: "https://soyoung-jeon.github.io/ko-ballet/",
         src: "img/04.PNG",
         type: "개인 프로젝트",
         title: "국립발레단 메인페이지 리뉴얼",
