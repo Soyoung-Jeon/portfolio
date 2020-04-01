@@ -33,7 +33,7 @@ const data = [
     },
     { 
       href: "https://soyoung-jeon.github.io/ko-ballet/",
-      src: "img/04.PNG",
+      src: "img/04.png",
       type: "개인 프로젝트",
       title: "국립발레단 메인페이지 리뉴얼",
       contents: "사이트 메인화면을 원페이지 형식으로 리뉴얼",
@@ -41,7 +41,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/06",
-        src: "img/06.PNG",
+        src: "img/06.png",
         type: "특집기사",
         title: "나는 치매 환자 입니다",
         contents: "간단한 설문지 구현",
@@ -49,7 +49,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/01",
-        src: "img/01.PNG",
+        src: "img/01.png",
         type: "특집기사",
         title: "아동성범죄 향한 무딘 칼날",
         contents: "click, hover 등의 기능으로 구독자 흥미를 유발",
@@ -57,7 +57,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/07",
-        src: "img/07.PNG",
+        src: "img/07.png",
         type: "특집기사",
         title: "산불의 계절이 돌아왔다",
         contents: "좌측 탭메뉴로 바로가기 기능을 구현",
@@ -65,7 +65,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/08",
-        src: "img/08.PNG",
+        src: "img/08.png",
         type: "특집기사",
         title: "고독사, 그들이 살던 세상",
         contents: "첫 화면에 Tilt 효과 플러그인을 활용",
@@ -73,7 +73,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/09",
-        src: "img/09.PNG",
+        src: "img/09.png",
         type: "특집기사",
         title: "뷰티아웃사이드, '스펙안에 성형있다'",
         contents: "첫 화면에 css animation 효과를 적용",
@@ -81,7 +81,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/10",
-        src: "img/10.PNG",
+        src: "img/10.png",
         type: "특집기사",
         title: "'윤창호 사건' 1년, 만취한 대한민국 도로",
         contents: "비디오를 fixed하여 전체 페이지 배경으로 사용",
@@ -89,7 +89,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/soccer",
-        src: "img/12.PNG",
+        src: "img/12.png",
         type: "개인 프로젝트",
         title: "대한민국 축구, 내맘대로 포메이션",
         contents: "드래그앤드롭 오픈소스를 응용한 개인 프로젝트",
@@ -97,7 +97,7 @@ const data = [
     },
     { 
         href: "https://lawdinner.com/",
-        src: "img/05.PNG",
+        src: "img/05.png",
         type: "웹사이트",
         title: "로디너",
         contents: "자사매체사 웹사이트 퍼블리싱",
@@ -105,7 +105,7 @@ const data = [
     },
     { 
       href: "https://soyoung-jeon.github.io/momentum/",
-      src: "img/11.PNG",
+      src: "img/11.png",
       type: "개인 프로젝트",
       title: "크롬 앱 'momentum' 클론코딩",
       contents: "배경이미지 랜덤 출력, 날씨 및 위치 api연결, localStorage에 유저이름 저장, TodoList 제작",
