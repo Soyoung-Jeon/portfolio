@@ -95,7 +95,6 @@ const data = [
         contents: "드래그앤드롭 오픈소스를 응용한 개인 프로젝트",
         refer: "디자인 / HTML / CSS / jQuery",
     },
-    
     { 
       href: "https://soyoung-jeon.github.io/momentum/",
       src: "img/11.png",
