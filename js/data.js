@@ -1,7 +1,7 @@
 const data = [
     { 
         href: "https://soyoung-jeon.github.io/portfolio/",
-        src: "img/02.PNG",
+        src: "img/02.png",
         type: "웹사이트",
         title: "전소영 포트폴리오 웹 사이트",
         contents: "Vanilla JS로 진행한 개인 포트폴리오 페이지",
@@ -9,7 +9,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/moyam/",
-        src: "img/13.PNG",
+        src: "img/13.png",
         type: "웹사이트",
         title: "MOYAM",
         contents: "체험단 링크를 모아서 볼 수 있는 웹사이트",
@@ -17,7 +17,7 @@ const data = [
     },
     { 
         href: "https://soyoung-jeon.github.io/special-view/03",
-        src: "img/03.PNG",
+        src: "img/03.png",
         type: "특집기사",
         title: "데이터로 보는 부동산 시장",
         contents: "CSS fixed 기능으로 세로 progress bar 구현",
@@ -25,7 +25,7 @@ const data = [
     },
     { 
       href: "https://github.com/Soyoung-Jeon/Paint-Js",
-      src: "img/cat.PNG",
+      src: "img/cat.png",
       type: "개인 프로젝트",
       title: "따라 그리면서 배우는 한국 고양이 6종",
       contents: "Canvas API로 제작한 고양이 그림판",
