@@ -13,7 +13,7 @@ const data = [
       type: "특집기사",
       title: "아동성범죄 향한 무딘 칼날",
       contents: "click, hover 등의 기능으로 구독자 흥미를 유발",
-      refer: "디자인 / HTML / CSS / jQuery / 반응형",
+      refer: "디자인 / HTML / CSS / jQuery",
     },
     { 
       href: "https://soyoung-jeon.github.io/ko-ballet/",
@@ -109,6 +109,6 @@ const data = [
       type: "웹사이트",
       title: "전소영 포트폴리오 웹 사이트",
       contents: "Vanilla JS로 진행한 개인 포트폴리오 페이지",
-      refer: "디자인 / HTML / CSS / Javascript(ES6)",
+      refer: "디자인 / HTML / CSS / Javascript(ES6) / 반응형",
     },
 ]
