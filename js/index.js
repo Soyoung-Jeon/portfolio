@@ -14,14 +14,12 @@ for (let i = 0; i < data.length; i++) {
   let itemType = itembox.querySelector(".item_type");
   let itemTitle = itembox.querySelector(".item_title");
   let itemContents = itembox.querySelector(".item_contents");
-  let itemRefer = itembox.querySelector(".item_refer");
 
   itemLink.setAttribute("href", data[i].href);
   itemImage.setAttribute("src", data[i].src);
   itemType.innerText = data[i].type;
   itemTitle.innerText = data[i].title;
   itemContents.innerText = data[i].contents;
-  itemRefer.innerText = data[i].refer;
 
   result.push(itembox);
   itemList.appendChild(itembox);
@@ -31,12 +29,10 @@ for (let i = 0; i < data.length; i++) {
 // 탭 타입 구분
 function tabType(type) {
   let result = "";
-  if (type == "웹사이트") {
-    result = "web";
-  } else if (type == "특집기사") {
-    result = "news";
+  if (type == "프로젝트") {
+    result = "project";
   } else {
-    result = "etc";
+    result = "manual";
   }
   return result;
 }
