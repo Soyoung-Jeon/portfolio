@@ -89,5 +89,19 @@ const data = [
 		type: "매뉴얼",
 		title: "컨트롤 파일 손상 시나리오",
 		contents: "컨트롤 파일 손상 시 Backup & Recovery"
+	},
+	{
+		href: "pdf/BR_multiplexing.pdf",
+		src: "img/14.png",
+		type: "매뉴얼",
+		title: "Multiplexing (다중화)",
+		contents: "컨트롤 파일, 리두 로그 파일의 다중화"
+	},
+	{
+		href: "pdf/backup.pdf",
+		src: "img/15.png",
+		type: "매뉴얼",
+		title: "Backup 시나리오",
+		contents: "cold backup과 hot backup"
 	}
 ]
